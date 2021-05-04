@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Wolsztynski"
 title_separator          : "-"
 name                     : &name "Eric Wolsztynski"
-description              : &description "description perso"
+description              : &description "Academic profile"
 url                      : https://ericwol.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ericwol/ericwol.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Eric Wolsztynski"
   avatar           : "profile.png"
   bio              : "Statistics Lecturer at University College Cork (UCC), Ireland"
-  location         : ""
+  #location         : ""
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=wolsztynski"
   googlescholar    : "https://scholar.google.com/citations?user=5DQtPYMAAAAJ&hl=en&oi=ao" #"http://yourfullgooglescholarurl.com"
