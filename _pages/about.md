@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-Academic profile
 ------
 I obtained my PhD in Statistical Signal and Image Processing at the University of Nice (France) in 2006, working on theoretical aspects of robust estimation methods and their application to image processing. In 2007 I joined the Signal Processing Group at Technische Universität Darmstadt (Germany), where I worked on developing robust methods for tracking wireless terminals in realistic environments. 
 
