@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Wolsztynski / Statistics Lecturer"
+title                    : "Eric Wolsztynski"
 title_separator          : "-"
 name                     : &name "Eric Wolsztynski"
 description              : &description "description perso"
