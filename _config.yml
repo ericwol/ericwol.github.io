@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eric Wolsztynski"
 title_separator          : "-"
-name                     : &name "Eric Wolsztynski"
+name                     : &name "Profile"
 description              : &description "Academic profile"
 url                      : https://ericwol.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
